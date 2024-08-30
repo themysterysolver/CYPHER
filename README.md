@@ -16,3 +16,7 @@ Welcome to the Cute Encryption/Decryption Program! This project provides a simpl
 2. **Compile the Code:**
    ```bash
    gcc -o encrypt encrypt.c -lm
+
+3. **Run the code:**
+   ```bash
+   ./encrypt
